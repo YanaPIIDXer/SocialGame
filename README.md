@@ -6,7 +6,7 @@
 |区分|技術|
 |---|---|
 |クライアント|Unity|
-|サーバ|未定|
+|サーバ|Golang|
 
 # Credit
 - [ジュエルセイバーFREE](http://www.jewel-s.jp/)
